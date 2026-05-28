@@ -31,3 +31,6 @@ The ToDoList app includes:
     History tracking
 
     Many themes, even more fonts, and some language options
+
+
+(the installer can be downloaded from 'releases')
