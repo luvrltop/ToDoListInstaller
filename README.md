@@ -49,6 +49,13 @@ Screenshots of the app:
 <img width="632" height="427" alt="{6DC81BC9-87B3-4229-A33B-0450951959FC}" src="https://github.com/user-attachments/assets/d83516f7-153a-4d34-8b73-46434eeeff69" />
 
 # About/Info window:
+    <Info-tab>
+<img width="440" height="461" alt="image" src="https://github.com/user-attachments/assets/02ff7b5b-b177-4599-ab9b-cd0218d16a36" />
 
-<img width="408" height="421" alt="{1A5B52D9-D944-4C7D-853B-8D8B4A769E71}" src="https://github.com/user-attachments/assets/29b11a60-53eb-4b81-8317-dd0b3c1ebeca" />
+    <Statistics-tab>
+<img width="455" height="463" alt="image" src="https://github.com/user-attachments/assets/6b520760-873e-49ee-9d8a-f4f819745563" />
+    
+    <Achievements-tab>
+<img width="439" height="457" alt="image" src="https://github.com/user-attachments/assets/3d8c8b1c-a4bb-4bb3-a7b0-5775ec730f82" />
+
 
